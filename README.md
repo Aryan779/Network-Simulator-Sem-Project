@@ -4,5 +4,4 @@
 
 # Project Done in group of 3
 # 1.) Aryan Patel 2020BITE043 
-# 2.) Snehankit Bhagat 2020BITE070 
-# 3.) Gaurav Meena 2020BITE010 
+# 2.) Gaurav Meena 2020BITE010 
